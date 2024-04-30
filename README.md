@@ -2,4 +2,4 @@
 Official page for paper: Open-Set Object Detection for the Identification and Localization of Dissimilar Novel Classes by means of Infrastructure Sensors
 
 
-Dataaset link will be published here soon!
+Dataset link will be published here soon!
