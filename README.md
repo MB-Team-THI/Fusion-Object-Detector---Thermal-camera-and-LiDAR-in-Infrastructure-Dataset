@@ -4,7 +4,7 @@ Official page for the paper: **Open-Set Object Detection for the Identification 
 
 ## Dataset Download
 
-The dataset can be downloaded from the following link: [Download the Dataset](https://faubox.rrze.uni-erlangen.de/getlink/fiYGhgiVRNcsD43Ki8jSko/main.zip)
+The dataset can be downloaded from the following links: [Link1](https://faubox.rrze.uni-erlangen.de/getlink/fiYGhgiVRNcsD43Ki8jSko/main.zip) [Link2](https://zenodo.org/records/11303535)
 
 ## Dataset Overview
 
